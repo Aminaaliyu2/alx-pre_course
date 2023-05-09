@@ -1,9 +1,17 @@
-#!/bin/bash
-echo "ALX"
-
-
-
-
-
-
+cd
 cd ..
+c:
+..
+ ^c
+ ^C
+PWD
+pwd
+c
+
+
+:wq
+
+
+
+q
+c
